@@ -1,0 +1,6 @@
+nombre,matricula,facu,carrera,promedio,edad,correo,curp
+Yossy , 21760237, Inge, computacion, 90,28,al21760237@ite.edu.mx, GAMY950831MGRTRS02
+
+Diego, 21454898, Ciencias, Computacionales, 80, 29, al32434600@uabc.edu.mx,DIEG97021995
+Ivan,21660238,Inge,Administracion,70,27,al21760239@ite.edu.mx,IGAM13082010
+Cristian, 5235655, Licenciatura, Administracion, 95, 34, al54321422@uabc.edu.mx
